@@ -266,8 +266,8 @@ namespace HaloXBE {
 
 	private: System::Void button4_Click(System::Object^  sender, System::EventArgs^  e) {
 		System::Windows::Forms::MessageBox::Show("Programmed by Jesse Ardonne\n\nInstructions:\n" \
-			"Load a Halo CE default.xbe\nModify version #, title, and map\n" \
-			"Thanks to Halo2Brian for offsets", \
+			"•Load a Halo CE default.xbe\n•Modify version #, title, and map\n" \
+			"•Thanks to Halo2Brian for offsets", \
 			"About", System::Windows::Forms::MessageBoxButtons::OK, System::Windows::Forms::MessageBoxIcon::Information);
 	}
 	};
